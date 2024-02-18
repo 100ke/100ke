@@ -7,7 +7,7 @@
   ---
 
   <div align="right">
-    <a href="#">[Portfolio Link]</a> <a href="https://100ke.tistory.com/">[Tistory Link]</a>
+    <a href="#">[Portfolio Link]</a> <a style="text-decoration: none;" href="https://100ke.tistory.com/">[Tistory Link]</a>
   </div>
   <div>
     <h3>Team Project</h3>
