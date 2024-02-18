@@ -11,9 +11,9 @@
   </div>
   <div>
     <h3>Team Project</h3>
-    <p>새하마노 방방곡곡 <a href="http://13.124.29.230/"> [Distribution URL] </a> </p>
+    <p> <b>새하마노 방방곡곡</b> <a text-decoration-line="none" href="http://13.124.29.230/"> [Distribution URL] </a> </p>
     <p>[Spring Boot + React] 지역 소개 및 관광 커뮤니티 플랫폼</p>
-    <p>Cafe Anyone </p> <a href="#"> [Distribution URL] </a> <a href="https://www.youtube.com/watch?v=LVnNMmcTGZE"> [Demonstration URL] </a>
+    <p> <b>Cafe Anyone</b> <a text-decoration-line="none" href="#"> [Distribution URL] </a> <a text-decoration-line="none" href="https://www.youtube.com/watch?v=LVnNMmcTGZE"> [Demonstration URL] </a> </p> 
     <p>[JSP&Servlet] 카페 서비스 및 커뮤니티 플랫폼</p>
   </div>
   
