@@ -15,7 +15,7 @@
 
 <br/>
 
-☕<b>Cafe Anyone</b> [[Distribution URL]]() [[Demonstration URL]](https://www.youtube.com/watch?v=LVnNMmcTGZE)
+☕<b>Cafe Anyone</b> <!--[[Distribution URL]]()--> [[Demonstration URL]](https://www.youtube.com/watch?v=LVnNMmcTGZE)
 
 [JSP&Servlet] 카페 서비스 및 커뮤니티 플랫폼
 
