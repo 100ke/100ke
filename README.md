@@ -4,7 +4,7 @@
 
 
 ### 안녕하세요! 신입 개발자 백혜윤 입니다. 👋
-  <hr/>
+  ---
 
   <div align="right">
     <a href="#">[Portfolio Link]</a> <a href="https://100ke.tistory.com/">[Tistory Link]</a>
