@@ -1,10 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=100ke's%20Github&fontSize=40" width="100%"/>
 
 ### 안녕하세요! 신입 개발자 백혜윤 입니다. 👋
----
 <div align="right">
   <a style="text-decoration: none;" href="#">[Portfolio Link]</a> <a style="text-decoration: none;" href="https://100ke.tistory.com/">[Tistory Link]</a>
 </div>
+
+---
 
 ### Team Project  
 
