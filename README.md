@@ -5,7 +5,7 @@
 <div align="right">
   <a style="text-decoration: none;" href="#">[Portfolio Link]</a> <a style="text-decoration: none;" href="https://100ke.tistory.com/">[Tistory Link]</a>
 </div>
-### Team Project
+<h3>Team Project</h3>
     <p><b>새하마노 방방곡곡</b> <a style="text-decoration: none;" href="http://13.124.29.230/">[Distribution URL]</a> </p>
     <p>[Spring Boot + React] 지역 소개 및 관광 커뮤니티 플랫폼</p>
     <p><b>Cafe Anyone</b> <a style="text-decoration: none;" href="#"> [Distribution URL] </a> <a style="text-decoration: none;" href="https://www.youtube.com/watch?v=LVnNMmcTGZE"> [Demonstration URL] </a> </p> 
