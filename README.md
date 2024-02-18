@@ -12,7 +12,7 @@
   <div>
     <h3>Team Project</h3>
     <div display="flex">
-      <p font-weight="bold">새하마노 방방곡곡 </p> <a href="http://13.124.29.230/"> [Distribution URL] </a>
+      <p font-weight="bold">새하마노 방방곡곡 <a href="http://13.124.29.230/"> [Distribution URL] </a> </p>
     </div>
     
     <p>[Spring Boot + React] 지역 소개 및 관광 커뮤니티 플랫폼</p>
