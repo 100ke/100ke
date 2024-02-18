@@ -7,6 +7,7 @@
 </div>
 
 ### Team Project
+
     <p>🌏<b>새하마노 방방곡곡</b> <a style="text-decoration: none;" href="http://13.124.29.230/">[Distribution URL]</a> </p>
     <p>[Spring Boot + React] 지역 소개 및 관광 커뮤니티 플랫폼</p>
     <p>☕<b>Cafe Anyone</b> <a style="text-decoration: none;" href="#">[Distribution URL]</a> <a style="text-decoration: none;" href="https://www.youtube.com/watch?v=LVnNMmcTGZE">[Demonstration URL]</a> </p> 
@@ -14,9 +15,13 @@
 
 ### Website Clone
 [삼성 디스플레이 뉴스룸](website-100ke02.web.app/)
+
 [React] 웹사이트 홈페이지 클론 _ 개인 프로젝트
+
 [하나금융그룹](hanacopy-100ke.web.app/)
+
 [React] 웹사이트 홈페이지 클론 _ 팀 프로젝트 with. kjy(nuitciel99)
+
 <!--
 **100ke/100ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
