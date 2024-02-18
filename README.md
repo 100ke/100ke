@@ -10,10 +10,11 @@
 
 🌏<b>새하마노 방방곡곡</b> [[Distribution URL]](http://13.124.29.230/)
 
+[Spring Boot + React] 지역 소개 및 관광 커뮤니티 플랫폼
 
-    <p>[Spring Boot + React] 지역 소개 및 관광 커뮤니티 플랫폼</p>
-    <p>☕<b>Cafe Anyone</b> <a style="text-decoration: none;" href="#">[Distribution URL]</a> <a style="text-decoration: none;" href="https://www.youtube.com/watch?v=LVnNMmcTGZE">[Demonstration URL]</a> </p> 
-    <p>[JSP&Servlet] 카페 서비스 및 커뮤니티 플랫폼</p>
+☕<b>Cafe Anyone</b> [Distribution URL]() [Demonstration URL](https://www.youtube.com/watch?v=LVnNMmcTGZE)
+
+[JSP&Servlet] 카페 서비스 및 커뮤니티 플랫폼
 
 ### Website Clone
 삼성 디스플레이 뉴스룸 [[View]](https://website-100ke02.web.app/)
